@@ -28,7 +28,7 @@ shiny::runGitHub("colorectal-cancer-prediction", "liumengmei0420")
 
 方法二：本地运行
 1. 克隆仓库bash
-git clone https://github.com/你的GitHub用户名/colorectal-cancer-prediction.git
+git clone https://github.com/liumengmei0420/colorectal-cancer-prediction.git
 2. 在 R 中运行
 shiny::runApp("colorectal-cancer-prediction的本地路径")
 ## 数据要求
